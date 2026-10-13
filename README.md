@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, c'est **awashalt3-ux**
+# Hey, c'est **awash/802Orpheus**
 
 Je fais du dev, surtout du web. J'aime comprendre comment ça marche avant de casser les choses — puis de les réparer.
 
-Je touche un peu à tout : JavaScript, Python, C, Rust, C#... Bref, je m'ennuie vite et j'apprends en faisant.
+Je touche un peu à tout : JavaScript, Python, C, Rust, C#... , j'apprends en faisant.
 
 </div>
 
@@ -23,11 +23,10 @@ Je touche un peu à tout : JavaScript, Python, C, Rust, C#... Bref, je m'ennuie 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Sinon, en vrac :**
+**Contacte :**
 
-- 🎮 Discord : **kpasswd**
-- ☕ Fonctionne mieux avec du café
-- 🐍🦀 Python le matin, Rust le soir
+- Discord : **kpasswd**
+
 
 **Mes stats :**
 
