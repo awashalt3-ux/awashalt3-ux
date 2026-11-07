@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Orpheus / Web — développeur web indépendant">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#e2ebd3" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c5f36b" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#c5f36b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="#10110f"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <circle cx="1050" cy="70" r="300" fill="url(#glow)"/>
+  <circle cx="1050" cy="70" r="190" fill="none" stroke="#c5f36b" stroke-opacity="0.14"/>
+  <circle cx="1050" cy="70" r="255" fill="none" stroke="#c5f36b" stroke-opacity="0.07"/>
+
+  <rect x="56" y="46" width="34" height="34" rx="10" fill="none" stroke="#c5f36b" stroke-opacity="0.65"/>
+  <text x="68" y="71" fill="#f0f1e9" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="-2">o<tspan fill="#c5f36b">.</tspan></text>
+  <text x="102" y="70" fill="#f0f1e9" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="0.2">orpheus<tspan fill="#c5f36b">/</tspan>web</text>
+
+  <circle cx="58" cy="119" r="3" fill="#c5f36b"/>
+  <text x="70" y="123" fill="#a2a99a" font-family="'Segoe UI', Arial, sans-serif" font-size="10" letter-spacing="2.6">DÉVELOPPEUR WEB INDÉPENDANT</text>
+
+  <text x="56" y="203" fill="#f0f1e9" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-3.5">Développeur web</text>
+  <text x="56" y="270" fill="#c5f36b" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-3.5">indépendant.</text>
+  <text x="58" y="305" fill="#a2a99a" font-family="'Segoe UI', Arial, sans-serif" font-size="15">Applications · interfaces · outils sur mesure</text>
+
+  <rect x="720" y="50" width="424" height="220" rx="12" fill="#171a15" stroke="#e2ebd3" stroke-opacity="0.12"/>
+  <line x1="720" y1="88" x2="1144" y2="88" stroke="#e2ebd3" stroke-opacity="0.1"/>
+  <circle cx="744" cy="69" r="3.5" fill="#697064"/>
+  <circle cx="760" cy="69" r="3.5" fill="#697064"/>
+  <circle cx="776" cy="69" r="3.5" fill="#8ab43a"/>
+  <text x="932" y="73" fill="#737c6e" font-family="Consolas, 'Courier New', monospace" font-size="10" text-anchor="middle">orpheus.ts</text>
+  <text x="1122" y="72" fill="#c5f36b" font-family="Consolas, 'Courier New', monospace" font-size="9" text-anchor="end" letter-spacing="0.8">● LIVE</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13.5">
+    <text x="744" y="121" fill="#a2a99a"><tspan fill="#d3a6ff">const</tspan> <tspan fill="#f0f1e9">approach</tspan> = {</text>
+    <text x="760" y="147" fill="#a2a99a">design: <tspan fill="#c5f36b">"purposeful"</tspan>,</text>
+    <text x="760" y="173" fill="#a2a99a">code: <tspan fill="#c5f36b">"maintainable"</tspan>,</text>
+    <text x="760" y="199" fill="#a2a99a">details: <tspan fill="#c5f36b">"considered"</tspan>,</text>
+    <text x="760" y="225" fill="#a2a99a">status: <tspan fill="#c5f36b">"open to collaborate"</tspan></text>
+    <text x="744" y="251" fill="#a2a99a">};</text>
+  </g>
+
+  <text x="1144" y="301" fill="#687160" font-family="Consolas, 'Courier New', monospace" font-size="9" text-anchor="end" letter-spacing="0.6">awashalt3-ux.github.io/portfolio →</text>
+</svg>

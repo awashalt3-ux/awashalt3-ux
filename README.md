@@ -1,63 +1,137 @@
-# OrpheusWeb
+<div align="center">
+  <a href="https://awashalt3-ux.github.io/portfolio/">
+    <img src="assets/banner.svg" alt="Orpheus / Web — développeur web indépendant" width="100%" />
+  </a>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Web+developer+%E2%80%94+polyglot+by+curiosity;Building+things+and+learning+by+doing;JavaScript+%7C+TypeScript+%7C+Python+%7C+Rust+%7C+C)
+  <br /><br />
 
-Web developer. Polyglot by curiosity — I build mostly for the web, learn by doing, and enjoy understanding how things work before breaking them (and fixing them better).
+  <a href="https://awashalt3-ux.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Voir%20le%20site-c5f36b?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=171a13&amp;labelColor=171a15" alt="Portfolio" /></a>
+  <a href="mailto:webdevorpheus@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contact-10110f?style=for-the-badge&amp;logo=gmail&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="E-mail" /></a>
+  <a href="https://github.com/awashalt3-ux"><img src="https://img.shields.io/badge/GitHub-awashalt3--ux-10110f?style=for-the-badge&amp;logo=github&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Discord-kpasswd-10110f?style=for-the-badge&amp;logo=discord&amp;logoColor=5865F2&amp;labelColor=171a15" alt="Discord : kpasswd" />
+</div>
+
+<br />
+
+## <img src="assets/icons/account-outline.svg" width="20" height="20" alt="" /> À propos
+
+Développeur web indépendant et autodidacte. Je conçois des applications, des interfaces et des outils pensés pour être réellement utiles — du concept à la mise en production.
+
+Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **Node.js**. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
+
+<table>
+  <tr>
+    <td><sub>FOCUS</sub></td>
+    <td>Applications web · interfaces soignées · outils sur mesure</td>
+  </tr>
+  <tr>
+    <td><sub>MÉTHODE</sub></td>
+    <td>Comprendre le besoin, choisir la bonne stack, livrer quelque chose d'utile</td>
+  </tr>
+  <tr>
+    <td><sub>STATUT</sub></td>
+    <td>Ouvert aux collaborations et aux projets intéressants</td>
+  </tr>
+</table>
+
+> Build with intent. Ship with care.
+
+<br />
+
+## <img src="assets/icons/layers-outline.svg" width="20" height="20" alt="" /> Ce que je construis
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/icons/monitor-dashboard.svg" width="28" height="28" alt="" /><br /><br />
+      <b>Sites &amp; interfaces</b><br />
+      <sub>Vitrines, landing pages et expériences responsive.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/icons/code-braces.svg" width="28" height="28" alt="" /><br /><br />
+      <b>Applications web</b><br />
+      <sub>Outils interactifs, tableaux de bord et interfaces métier.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/icons/connection.svg" width="28" height="28" alt="" /><br /><br />
+      <b>Outils &amp; intégrations</b><br />
+      <sub>API, webhooks et automatisations sur mesure.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## <img src="assets/icons/code-tags.svg" width="20" height="20" alt="" /> Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,html,css,tailwind,python,sqlite,rust,c,csharp,git,github,vscode,linux&amp;theme=dark&amp;perline=9" alt="JavaScript, TypeScript, React, Vite, Node.js, Express, HTML, CSS, Tailwind, Python, SQLite, Rust, C, C#, Git, GitHub, VS Code, Linux" />
+</div>
+
+<br />
+
+## <img src="assets/icons/folder-star-outline.svg" width="20" height="20" alt="" /> Projets
+
+<div align="center">
+  <a href="https://github.com/awashalt3-ux/paperforge">
+    <img src="assets/projects/paperforge.svg" width="100%" alt="Paperforge — studio PDF local-first" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/awashalt3-ux/webhook-manager">
+    <img src="assets/projects/webhook-manager.svg" width="100%" alt="Webhook Manager — gestionnaire de webhooks Discord" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/awashalt3-ux/task-manager">
+    <img src="assets/projects/task-manager.svg" width="100%" alt="Gestionnaire de tâches — application desktop Python" />
+  </a>
+  <br /><br />
+  <a href="https://awashalt3-ux.github.io/portfolio/">
+    <img src="assets/projects/portfolio.svg" width="100%" alt="Portfolio — site statique d'Orpheus" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/awashalt3-ux?tab=repositories"><b>Tous les dépôts →</b></a>
+</p>
+
+<br />
+
+## <img src="assets/icons/chart-line.svg" width="20" height="20" alt="" /> GitHub en chiffres
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Activité GitHub" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Statistiques GitHub" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages les plus utilisés" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="62%" src="https://streak-stats.demolab.com?user=awashalt3-ux&amp;locale=fr&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=10110f&amp;ring=c5f36b&amp;fire=c5f36b&amp;currStreakLabel=c5f36b&amp;sideLabels=a2a99a&amp;dates=697064&amp;sideNums=f0f1e9&amp;currStreakNum=f0f1e9" alt="Série de contributions" />
+</div>
+
+<br />
+
+## <img src="assets/icons/email-outline.svg" width="20" height="20" alt="" /> Contact
+
+<div align="center">
+  <a href="mailto:webdevorpheus@gmail.com"><img src="https://img.shields.io/badge/E--mail-webdevorpheus%40gmail.com-10110f?style=for-the-badge&amp;logo=gmail&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="E-mail" /></a>
+  <a href="https://awashalt3-ux.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-awashalt3--ux.github.io-10110f?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="Portfolio" /></a>
+  <a href="https://github.com/awashalt3-ux"><img src="https://img.shields.io/badge/GitHub-awashalt3--ux-10110f?style=for-the-badge&amp;logo=github&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="GitHub" /></a>
+</div>
+
+<p align="center"><code>Discord · kpasswd</code></p>
 
 ---
 
-## About
-
-I write code across the stack: JavaScript and TypeScript on the web side, Python for tooling and scripts, and C / Rust / C# when I want to get closer to the metal. I am self-taught, practical, and learn through hands-on experimentation rather than tutorials.
-
-- Focused on: web development, small tools, side experiments
-- Learning: systems programming (Rust ownership, memory models) and advanced TypeScript patterns
-- Open to: collaborations and interesting ideas
-
----
-
-## Tech stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-9B4F96?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F29111?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend and runtime**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=OrpheusWeb&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrpheusWeb&layout=compact&theme=github_dark&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrpheusWeb&theme=github-dark-blue&hide_border=true)
-
----
-
-## Contact
-
-- Discord: `kpasswd`
-- GitHub: [OrpheusWeb](https://github.com/OrpheusWeb)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=OrpheusWeb&label=Profile%20views&color=0e75b6&style=flat-square)
+<div align="center">
+  <sub>Orpheus · 2026 — fait avec intention.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=awashalt3-ux&amp;label=Vues%20du%20profil&amp;color=8ab43a&amp;style=flat-square" alt="Vues du profil" />
+  <img src="https://img.shields.io/github/followers/awashalt3-ux?label=Followers&amp;style=flat-square&amp;color=8ab43a&amp;labelColor=171a15" alt="Followers" />
+</div>
