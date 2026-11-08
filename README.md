@@ -130,7 +130,7 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 ---
 
 <div align="center">
-  <sub>Orpheus · 2026 — fait avec intention.</sub>
+  <sub>Orpheus · 2026.</sub>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=awashalt3-ux&amp;label=Vues%20du%20profil&amp;color=8ab43a&amp;style=flat-square" alt="Vues du profil" />
   <img src="https://img.shields.io/github/followers/awashalt3-ux?label=Followers&amp;style=flat-square&amp;color=8ab43a&amp;labelColor=171a15" alt="Followers" />
