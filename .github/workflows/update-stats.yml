@@ -25,7 +25,7 @@ jobs:
 
       - name: Update stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/update-stats.mjs
 
       - name: Commit and push

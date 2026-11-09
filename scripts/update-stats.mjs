@@ -1,15 +1,11 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
-const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
-if (!TOKEN) {
-  console.error("GITHUB_TOKEN is required");
-  process.exit(1);
-}
-
+const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
 const USERNAME = "awashalt3-ux";
-const QUERY = `query($login:String!){user(login:$login){contributionsCollection{totalCommitContributions totalIssueContributions totalPullRequestContributions contributionCalendar{totalContributions}}repositories(first:100,ownerAffiliations:OWNER,isFork:false){totalCount nodes{stargazerCount}}}}`;
 
-async function fetchStats() {
+const GQL_QUERY = `query($login:String!){user(login:$login){contributionsCollection{totalCommitContributions totalIssueContributions totalPullRequestContributions contributionCalendar{totalContributions}}}}`;
+
+async function fetchContributions() {
   const res = await fetch("https://api.github.com/graphql", {
     method: "POST",
     headers: {
@@ -17,21 +13,49 @@ async function fetchStats() {
       Authorization: `Bearer ${TOKEN}`,
       "User-Agent": "profile-stats-updater",
     },
-    body: JSON.stringify({ query: QUERY, variables: { login: USERNAME } }),
+    body: JSON.stringify({ query: GQL_QUERY, variables: { login: USERNAME } }),
   });
-  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw new Error(`GitHub GraphQL ${res.status}: ${await res.text()}`);
   const json = await res.json();
   if (json.errors) throw new Error(JSON.stringify(json.errors));
-  const u = json.data.user;
-  const stars = u.repositories.nodes.reduce((s, r) => s + r.stargazerCount, 0);
+  const c = json.data.user.contributionsCollection;
   return {
-    contributions: u.contributionsCollection.contributionCalendar.totalContributions,
-    commits: u.contributionsCollection.totalCommitContributions,
-    prs: u.contributionsCollection.totalPullRequestContributions,
-    issues: u.contributionsCollection.totalIssueContributions,
-    repos: u.repositories.totalCount,
-    stars,
+    contributions: c.contributionCalendar.totalContributions,
+    commits: c.totalCommitContributions,
+    prs: c.totalPullRequestContributions,
+    issues: c.totalIssueContributions,
   };
+}
+
+async function fetchRepos() {
+  // Public REST API: returns all public repos owned by the user (no auth required,
+  // but a token raises rate limits). Paginate to be safe.
+  const repos = [];
+  let page = 1;
+  while (true) {
+    const url = `https://api.github.com/users/${USERNAME}/repos?per_page=100&page=${page}&type=owner`;
+    const res = await fetch(url, {
+      headers: {
+        Accept: "application/vnd.github+json",
+        "User-Agent": "profile-stats-updater",
+        ...(TOKEN ? { Authorization: `Bearer ${TOKEN}` } : {}),
+      },
+    });
+    if (!res.ok) throw new Error(`GitHub REST ${res.status}: ${await res.text()}`);
+    const batch = await res.json();
+    if (!Array.isArray(batch) || batch.length === 0) break;
+    repos.push(...batch);
+    if (batch.length < 100) break;
+    page += 1;
+  }
+  const owned = repos.filter((r) => !r.fork);
+  const stars = owned.reduce((s, r) => s + (r.stargazers_count || 0), 0);
+  return { repos: owned.length, stars };
+}
+
+async function fetchStats() {
+  const [contrib, repos] = await Promise.all([fetchContributions(), fetchRepos()]);
+  return { ...contrib, ...repos };
 }
 
 function formatDate(d) {
