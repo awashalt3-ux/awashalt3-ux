@@ -19,6 +19,8 @@ Développeur web indépendant et autodidacte. Je conçois des applications, des 
 
 Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **Node.js**. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
+<sub>22 contributions · 16 commits · 7 dépôts publics · 6 étoiles — année 2026.</sub>
+
 <table>
   <tr>
     <td><sub>FOCUS</sub></td>
@@ -105,8 +107,20 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 <br />
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Statistiques GitHub" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://img.shields.io/badge/Contributions-22-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="22 contributions" />
+  <img src="https://img.shields.io/badge/Commits-16-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="16 commits" />
+  <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-7-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="7 dépôts" />
+  <img src="https://img.shields.io/badge/%C3%89toiles-6-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="6 étoiles" />
+  <img src="https://img.shields.io/badge/Pull%20requests-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 pull requests" />
+  <img src="https://img.shields.io/badge/Issues-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 issues" />
+</div>
+
+<p align="center"><sub>Chiffres exacts — mise à jour le 9 nov. 2026.</sub></p>
+
+<br />
+
+<div align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages les plus utilisés" />
 </div>
 
 <br />
