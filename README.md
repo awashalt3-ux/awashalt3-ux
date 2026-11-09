@@ -20,7 +20,7 @@ Développeur web indépendant et autodidacte. Je conçois des applications, des 
 Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **Node.js**. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
 <!-- STATS_ABOUT:START -->
-<sub>24 contributions · 18 commits · 5 dépôts publics · 5 étoiles — année 2026.</sub>
+<sub>25 contributions · 19 commits · 5 dépôts publics · 5 étoiles — année 2026.</sub>
 <!-- STATS_ABOUT:END -->
 
 <table>
@@ -110,8 +110,8 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 
 <!-- STATS_BADGES:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-24-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="24 contributions" />
-  <img src="https://img.shields.io/badge/Commits-18-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="18 commits" />
+  <img src="https://img.shields.io/badge/Contributions-25-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="25 contributions" />
+  <img src="https://img.shields.io/badge/Commits-19-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="19 commits" />
   <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-5-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="5 dépôts" />
   <img src="https://img.shields.io/badge/%C3%89toiles-5-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="5 étoiles" />
   <img src="https://img.shields.io/badge/Pull%20requests-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 pull requests" />
