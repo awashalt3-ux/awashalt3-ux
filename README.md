@@ -118,7 +118,7 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
   <img src="https://img.shields.io/badge/Issues-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 issues" />
 </div>
 
-<p align="center"><sub>Chiffres exacts — mise à jour le 9 nov. 2026.</sub></p>
+<p align="center"><sub>Chiffres exacts — mise à jour le 10 nov. 2026.</sub></p>
 <!-- STATS_BADGES:END -->
 
 <br />
