@@ -20,7 +20,7 @@ Développeur web indépendant et autodidacte. Je conçois des applications, des 
 Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **Node.js**. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
 <!-- STATS_ABOUT:START -->
-<sub>26 contributions · 20 commits · 5 dépôts publics · 5 étoiles — année 2026.</sub>
+<sub>30 contributions · 23 commits · 6 dépôts publics · 5 étoiles — année 2026.</sub>
 <!-- STATS_ABOUT:END -->
 
 <table>
@@ -110,15 +110,15 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 
 <!-- STATS_BADGES:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-26-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="26 contributions" />
-  <img src="https://img.shields.io/badge/Commits-20-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="20 commits" />
-  <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-5-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="5 dépôts" />
+  <img src="https://img.shields.io/badge/Contributions-30-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="30 contributions" />
+  <img src="https://img.shields.io/badge/Commits-23-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="23 commits" />
+  <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-6-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="6 dépôts" />
   <img src="https://img.shields.io/badge/%C3%89toiles-5-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="5 étoiles" />
   <img src="https://img.shields.io/badge/Pull%20requests-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 pull requests" />
   <img src="https://img.shields.io/badge/Issues-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 issues" />
 </div>
 
-<p align="center"><sub>Chiffres exacts — mise à jour le 10 nov. 2026.</sub></p>
+<p align="center"><sub>Chiffres exacts — mise à jour le 11 nov. 2026.</sub></p>
 <!-- STATS_BADGES:END -->
 
 <br />
