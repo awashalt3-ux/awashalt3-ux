@@ -58,7 +58,56 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
 ## <img src="assets/icons/code-tags.svg" width="20" height="20" alt="" /> Stack
 
 <div align="center">
-  <img src="assets/cards/stack.svg" width="100%" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind, Node.js, Express, SQLite, PostgreSQL, Prisma, REST, Python, Rust, C, C#, PySide6, Git, GitHub Actions, VS Code, Linux, Wasmer" />
+
+  <sub><b>INTERFACE</b></sub>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/HTML-10110f?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26&amp;labelColor=171a15" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-10110f?style=for-the-badge&amp;logo=css&amp;logoColor=663399&amp;labelColor=171a15" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-10110f?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E&amp;labelColor=171a15" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-10110f?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6&amp;labelColor=171a15" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-10110f?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB&amp;labelColor=171a15" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-10110f?style=for-the-badge&amp;logo=vite&amp;logoColor=9135FF&amp;labelColor=171a15" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-10110f?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4&amp;labelColor=171a15" alt="Tailwind CSS" />
+
+  <br /><br />
+
+  <sub><b>DONNÉES &amp; SERVEUR</b></sub>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Node.js-10110f?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E&amp;labelColor=171a15" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-10110f?style=for-the-badge&amp;logo=express&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="Express" />
+  <img src="https://img.shields.io/badge/SQLite-10110f?style=for-the-badge&amp;logo=sqlite&amp;logoColor=003B57&amp;labelColor=171a15" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-10110f?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1&amp;labelColor=171a15" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-10110f?style=for-the-badge&amp;logo=prisma&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="Prisma" />
+  <img src="https://img.shields.io/badge/REST-10110f?style=for-the-badge&amp;logo=openapiinitiative&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="REST" />
+
+  <br /><br />
+
+  <sub><b>LANGAGES</b></sub>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Python-10110f?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB&amp;labelColor=171a15" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-10110f?style=for-the-badge&amp;logo=rust&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-10110f?style=for-the-badge&amp;logo=c&amp;logoColor=A8B9CC&amp;labelColor=171a15" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-10110f?style=for-the-badge&amp;logo=sharp&amp;logoColor=99CC00&amp;labelColor=171a15" alt="C#" />
+  <img src="https://img.shields.io/badge/PySide6-10110f?style=for-the-badge&amp;logo=qt&amp;logoColor=41CD52&amp;labelColor=171a15" alt="PySide6" />
+
+  <br /><br />
+
+  <sub><b>OUTILS</b></sub>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Git-10110f?style=for-the-badge&amp;logo=git&amp;logoColor=F03C2E&amp;labelColor=171a15" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-10110f?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088FF&amp;labelColor=171a15" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS%20Code-10110f?style=for-the-badge&amp;logo=vscodium&amp;logoColor=007ACC&amp;labelColor=171a15" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-10110f?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624&amp;labelColor=171a15" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wasmer-10110f?style=for-the-badge&amp;logo=wasmer&amp;logoColor=4946DD&amp;labelColor=171a15" alt="Wasmer" />
+
 </div>
 
 <br />
