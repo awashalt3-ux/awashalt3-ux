@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="348" viewBox="0 0 1200 348" role="img" aria-label="Stack : HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind, Node.js, Express, SQLite, PostgreSQL, Prisma, REST, Python, Rust, C, C#, PySide6, Git, GitHub Actions, VS Code, Linux, Wasmer">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171a15"/>
+      <stop offset="1" stop-color="#0d0f0b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c5f36b"/>
+      <stop offset="1" stop-color="#8ab43a"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c5f36b" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#c5f36b" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c5f36b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c5f36b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="347" rx="18" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.09"/>
+  <text x="32" y="57" fill="#6b7465" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="10.5" letter-spacing="1.8">INTERFACE</text>
+  <rect x="244" y="30" width="60" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="274" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">HTML</text>
+  <rect x="313" y="30" width="52" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="339" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">CSS</text>
+  <rect x="374" y="30" width="104" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="426" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">JavaScript</text>
+  <rect x="487" y="30" width="104" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="540" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">TypeScript</text>
+  <rect x="601" y="30" width="67" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="634" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">React</text>
+  <rect x="677" y="30" width="60" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="707" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Vite</text>
+  <rect x="746" y="30" width="90" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="791" y="51.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Tailwind</text>
+  <line x1="0" y1="88" x2="1200" y2="88" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="32" y="129" fill="#6b7465" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="10.5" letter-spacing="1.8">DONNÉES &amp; SERVEUR</text>
+  <rect x="244" y="102" width="82" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="285" y="123.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Node.js</text>
+  <rect x="335" y="102" width="82" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="376" y="123.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Express</text>
+  <rect x="426" y="102" width="75" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="463" y="123.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">SQLite</text>
+  <rect x="510" y="102" width="104" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="562" y="123.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">PostgreSQL</text>
+  <rect x="623" y="102" width="75" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="661" y="123.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Prisma</text>
+  <rect x="707" y="102" width="60" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="737" y="123.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">REST</text>
+  <line x1="0" y1="160" x2="1200" y2="160" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="32" y="201" fill="#6b7465" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="10.5" letter-spacing="1.8">LANGAGES</text>
+  <rect x="244" y="174" width="75" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="281" y="195.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Python</text>
+  <rect x="328" y="174" width="60" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="358" y="195.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Rust</text>
+  <rect x="396" y="174" width="37" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="415" y="195.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">C</text>
+  <rect x="443" y="174" width="45" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="465" y="195.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">C#</text>
+  <rect x="497" y="174" width="82" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="538" y="195.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">PySide6</text>
+  <line x1="0" y1="232" x2="1200" y2="232" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="32" y="273" fill="#6b7465" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="10.5" letter-spacing="1.8">OUTILS</text>
+  <rect x="244" y="246" width="52" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="270" y="267.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Git</text>
+  <rect x="305" y="246" width="134" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="372" y="267.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">GitHub Actions</text>
+  <rect x="448" y="246" width="82" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="490" y="267.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">VS Code</text>
+  <rect x="540" y="246" width="67" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="573" y="267.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Linux</text>
+  <rect x="616" y="246" width="75" height="34" rx="17.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="653" y="267.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="0.4">Wasmer</text>
+</svg>

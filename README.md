@@ -5,9 +5,10 @@
 
   <br /><br />
 
-  <a href="https://awashalt3-ux.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Voir%20le%20site-c5f36b?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=171a13&amp;labelColor=171a15" alt="Portfolio" /></a>
-  <a href="mailto:webdevorpheus@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contact-10110f?style=for-the-badge&amp;logo=gmail&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="E-mail" /></a>
-  <a href="https://github.com/awashalt3-ux"><img src="https://img.shields.io/badge/GitHub-awashalt3--ux-10110f?style=for-the-badge&amp;logo=github&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="GitHub" /></a>
+  <a href="https://awashalt3-ux.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-voir%20le%20site-c5f36b?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=171a13&amp;labelColor=171a15" alt="Portfolio" /></a>
+  <a href="mailto:webdevorpheus@gmail.com"><img src="https://img.shields.io/badge/E--mail-écrire-10110f?style=for-the-badge&amp;logo=gmail&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="E-mail" /></a>
+  <br />
+  <a href="https://github.com/awashalt3-ux?tab=repositories"><img src="https://img.shields.io/badge/Dépôts-parcourir-10110f?style=for-the-badge&amp;logo=github&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="Dépôts" /></a>
   <img src="https://img.shields.io/badge/Discord-kpasswd-10110f?style=for-the-badge&amp;logo=discord&amp;logoColor=5865F2&amp;labelColor=171a15" alt="Discord : kpasswd" />
 </div>
 
@@ -17,7 +18,7 @@
 
 Développeur web indépendant et autodidacte. Je conçois des applications, des interfaces et des outils pensés pour être réellement utiles — du concept à la mise en production.
 
-Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **Node.js**. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
+Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur**. C'est pour cela que je construis en priorité des outils **local-first**, sans compte obligatoire et sans envoi de données vers un serveur. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
 <!-- STATS_ABOUT:START -->
 <sub>30 contributions · 23 commits · 6 dépôts publics · 5 étoiles — année 2026.</sub>
@@ -25,73 +26,59 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 
 <table>
   <tr>
-    <td><sub>FOCUS</sub></td>
+    <td width="22%"><sub><b>FOCUS</b></sub></td>
     <td>Applications web · interfaces soignées · outils sur mesure</td>
   </tr>
   <tr>
-    <td><sub>MÉTHODE</sub></td>
+    <td><sub><b>MÉTHODE</b></sub></td>
     <td>Comprendre le besoin, choisir la bonne stack, livrer quelque chose d'utile</td>
   </tr>
   <tr>
-    <td><sub>STATUT</sub></td>
+    <td><sub><b>PRINCIPE</b></sub></td>
+    <td>Local-first par défaut, zéro dépendance quand c'est possible, aucune donnée qui traîne</td>
+  </tr>
+  <tr>
+    <td><sub><b>STATUT</b></sub></td>
     <td>Ouvert aux collaborations et aux projets intéressants</td>
   </tr>
 </table>
 
-> Build with intent. Ship with care.
+> *Build with intent. Ship with care.*
 
 <br />
 
 ## <img src="assets/icons/layers-outline.svg" width="20" height="20" alt="" /> Ce que je construis
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/icons/monitor-dashboard.svg" width="28" height="28" alt="" /><br /><br />
-      <b>Sites &amp; interfaces</b><br />
-      <sub>Vitrines, landing pages et expériences responsive.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/icons/code-braces.svg" width="28" height="28" alt="" /><br /><br />
-      <b>Applications web</b><br />
-      <sub>Outils interactifs, tableaux de bord et interfaces métier.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/icons/connection.svg" width="28" height="28" alt="" /><br /><br />
-      <b>Outils &amp; intégrations</b><br />
-      <sub>API, webhooks et automatisations sur mesure.</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/cards/services.svg" width="100%" alt="Sites et interfaces, applications web, outils et intégrations" />
+</div>
 
 <br />
 
 ## <img src="assets/icons/code-tags.svg" width="20" height="20" alt="" /> Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,html,css,tailwind,python,sqlite,rust,c,csharp,git,github,vscode,linux&amp;theme=dark&amp;perline=9" alt="JavaScript, TypeScript, React, Vite, Node.js, Express, HTML, CSS, Tailwind, Python, SQLite, Rust, C, C#, Git, GitHub, VS Code, Linux" />
+  <img src="assets/cards/stack.svg" width="100%" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind, Node.js, Express, SQLite, PostgreSQL, Prisma, REST, Python, Rust, C, C#, PySide6, Git, GitHub Actions, VS Code, Linux, Wasmer" />
 </div>
 
 <br />
 
 ## <img src="assets/icons/folder-star-outline.svg" width="20" height="20" alt="" /> Projets
 
+<a href="https://github.com/awashalt3-ux/paperforge">
+  <img src="assets/projects/paperforge.svg" width="100%" alt="Paperforge — studio PDF local-first" />
+</a>
+
+<br />
+
 <div align="center">
-  <a href="https://github.com/awashalt3-ux/paperforge">
-    <img src="assets/projects/paperforge.svg" width="100%" alt="Paperforge — studio PDF local-first" />
-  </a>
+  <a href="https://github.com/awashalt3-ux/cipher"><img src="assets/projects/cipher.svg" width="49%" alt="Cipher — gestionnaire de boîtes temp mail" /></a>
+  &nbsp;
+  <a href="https://github.com/awashalt3-ux/webhook-manager"><img src="assets/projects/webhook-manager.svg" width="49%" alt="Webhook Manager — gestionnaire de webhooks Discord" /></a>
   <br /><br />
-  <a href="https://github.com/awashalt3-ux/webhook-manager">
-    <img src="assets/projects/webhook-manager.svg" width="100%" alt="Webhook Manager — gestionnaire de webhooks Discord" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/awashalt3-ux/task-manager">
-    <img src="assets/projects/task-manager.svg" width="100%" alt="Gestionnaire de tâches — application desktop Python" />
-  </a>
-  <br /><br />
-  <a href="https://awashalt3-ux.github.io/portfolio/">
-    <img src="assets/projects/portfolio.svg" width="100%" alt="Portfolio — site statique d'Orpheus" />
-  </a>
+  <a href="https://github.com/awashalt3-ux/task-manager"><img src="assets/projects/task-manager.svg" width="49%" alt="Task Manager — application desktop Python" /></a>
+  &nbsp;
+  <a href="https://awashalt3-ux.github.io/portfolio/"><img src="assets/projects/portfolio.svg" width="49%" alt="Portfolio — site statique d'Orpheus" /></a>
 </div>
 
 <p align="center">
@@ -105,8 +92,6 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Activité GitHub" />
 </div>
-
-<br />
 
 <!-- STATS_BADGES:START -->
 <div align="center">
@@ -124,7 +109,8 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 <br />
 
 <div align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages les plus utilisés" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages les plus utilisés" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages par dépôt" />
 </div>
 
 <br />
@@ -136,6 +122,8 @@ Je travaille principalement avec **JavaScript**, **TypeScript**, **React** et **
 <br />
 
 ## <img src="assets/icons/email-outline.svg" width="20" height="20" alt="" /> Contact
+
+Une idée, un projet, une question ? Le plus simple reste l'e-mail.
 
 <div align="center">
   <a href="mailto:webdevorpheus@gmail.com"><img src="https://img.shields.io/badge/E--mail-webdevorpheus%40gmail.com-10110f?style=for-the-badge&amp;logo=gmail&amp;logoColor=c5f36b&amp;labelColor=171a15" alt="E-mail" /></a>

@@ -1,15 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Paperforge — studio PDF local-first">
-  <rect x="0.5" y="0.5" width="1199" height="179" rx="14" fill="#10110f" stroke="#e2ebd3" stroke-opacity="0.12"/>
-  <rect x="36" y="48" width="84" height="84" rx="20" fill="#171a15" stroke="#c5f36b" stroke-opacity="0.28"/>
-  <g transform="translate(46.8 58.8) scale(2.6)">
-    <path d="M6,2A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6M6,4H13V9H18V20H6V4M8,12V14H16V12H8M8,16V18H13V16H8Z" fill="#c5f36b"/>
-  </g>
-  <text x="152" y="62" fill="#8ab43a" font-family="Consolas, 'Courier New', monospace" font-size="11.5" letter-spacing="2.2">APPLICATION WEB · TYPESCRIPT</text>
-  <text x="152" y="99" fill="#f0f1e9" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="700">Paperforge</text>
-  <text x="152" y="131" fill="#a2a99a" font-family="'Segoe UI', Arial, sans-serif" font-size="17.5">Studio PDF local-first — création, édition et outils PDF dans le navigateur.</text>
-  <text x="152" y="160" fill="#c5f36b" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="0.8">REACT · VITE · KONVA · PDF.JS</text>
-  <text x="1108" y="94" fill="#c5f36b" font-family="Consolas, 'Courier New', monospace" font-size="12.5" letter-spacing="1.4" text-anchor="end">VOIR LE DÉPÔT</text>
-  <g transform="translate(1122 80) scale(0.85)">
-    <path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z" fill="#c5f36b"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="252" viewBox="0 0 1200 252" role="img" aria-label="Paperforge — studio PDF local-first">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171a15"/>
+      <stop offset="1" stop-color="#0d0f0b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c5f36b"/>
+      <stop offset="1" stop-color="#8ab43a"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c5f36b" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#c5f36b" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c5f36b" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c5f36b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="251" rx="20" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.1"/>
+  <circle cx="1010" cy="86" r="210" fill="url(#glow)"/>
+  <text x="40" y="46" fill="#c5f36b" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" letter-spacing="2.6">01</text>
+  <text x="74" y="46" fill="#6b7465" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" letter-spacing="2.6">PROJET PHARE · APPLICATION WEB</text>
+  <text x="40" y="112" fill="#f0f1e9" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1.4">Paperforge</text>
+  <text x="40" y="146" fill="#a2a99a" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif" font-size="15.5">Studio PDF local-first : création, édition et export vectoriel, entièrement dans le navigateur.</text>
+  <text x="40" y="170" fill="#a2a99a" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif" font-size="15.5">Aucun fichier envoyé, aucun compte — tout reste sur la machine.</text>
+  <rect x="40" y="190" width="64" height="28" rx="14.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="72" y="208.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">REACT</text>
+  <rect x="113" y="190" width="57" height="28" rx="14.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="142" y="208.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">VITE</text>
+  <rect x="179" y="190" width="64" height="28" rx="14.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="211" y="208.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">KONVA</text>
+  <rect x="252" y="190" width="71" height="28" rx="14.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="288" y="208.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">PDF.JS</text>
+  <rect x="332" y="190" width="91" height="28" rx="14.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="378" y="208.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">INDEXEDDB</text>
+  <rect x="433" y="190" width="50" height="28" rx="14.0" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.22"/>
+  <text x="458" y="208.0" fill="#a2a99a" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11" text-anchor="middle" letter-spacing="0.4">PWA</text>
+  <rect x="1004" y="190" width="156" height="38" rx="12" fill="#c5f36b"/>
+  <text x="1082" y="214" fill="#1a2110" font-family="Consolas, 'SF Mono', 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="1.2" text-anchor="middle">VOIR LE PROJET ↗</text>
+  <g transform="translate(790 40)">
+    <g transform="rotate(-8 90 90)"><rect x="10" y="34" width="118" height="150" rx="10" fill="#1b1f16" stroke="#c5f36b" stroke-opacity="0.14"/></g>
+    <g transform="rotate(6 130 90)"><rect x="56" y="22" width="118" height="150" rx="10" fill="#1f2419" stroke="#c5f36b" stroke-opacity="0.22"/></g>
+    <g transform="rotate(-2 180 90)">
+      <rect x="104" y="16" width="122" height="154" rx="10" fill="#e9efdd"/>
+      <rect x="120" y="36" width="60" height="7" rx="3.5" fill="#2a2f25" opacity="0.85"/>
+      <rect x="120" y="52" width="88" height="4" rx="2" fill="#2a2f25" opacity="0.25"/>
+      <rect x="120" y="62" width="72" height="4" rx="2" fill="#2a2f25" opacity="0.25"/>
+      <rect x="120" y="80" width="88" height="46" rx="5" fill="#c5f36b" opacity="0.5"/>
+      <rect x="120" y="136" width="88" height="4" rx="2" fill="#2a2f25" opacity="0.25"/>
+      <rect x="120" y="146" width="56" height="4" rx="2" fill="#2a2f25" opacity="0.25"/>
+    </g>
+    <circle cx="236" cy="40" r="15" fill="#c5f36b"/>
+    <g transform="translate(228 32) scale(0.66)"><path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z" fill="#1a2110"/></g>
   </g>
 </svg>
