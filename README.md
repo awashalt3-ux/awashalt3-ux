@@ -21,7 +21,7 @@ Développeur web indépendant et autodidacte. Je conçois des applications, des 
 Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur**. C'est pour cela que je construis en priorité des outils **local-first**, sans compte obligatoire et sans envoi de données vers un serveur. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
 <!-- STATS_ABOUT:START -->
-<sub>55 contributions · 45 commits · 9 dépôts publics · 5 étoiles · langage principal TypeScript — année 2026.</sub>
+<sub>55 contributions · 45 commits · 9 dépôts publics · 6 étoiles · langage principal TypeScript — année 2026.</sub>
 <!-- STATS_ABOUT:END -->
 
 <table>
@@ -147,7 +147,7 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
   <img src="https://img.shields.io/badge/Contributions-55-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="55 contributions" />
   <img src="https://img.shields.io/badge/Commits-45-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="45 commits" />
   <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-9-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="9 dépôts" />
-  <img src="https://img.shields.io/badge/%C3%89toiles-5-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="5 étoiles" />
+  <img src="https://img.shields.io/badge/%C3%89toiles-6-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="6 étoiles" />
   <img src="https://img.shields.io/badge/Pull%20requests-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 pull requests" />
   <img src="https://img.shields.io/badge/Issues-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 issues" />
   <img src="https://img.shields.io/badge/Langage-TypeScript-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="Langage principal : TypeScript" />

@@ -319,9 +319,8 @@ async function fetchStats() {
       pushedAt: new Date(r.pushedAt),
     }));
 
-  const outside = repos.filter((r) => r.nameWithOwner !== `${USERNAME}/${PROFILE_REPO}`);
-  const stars = outside.reduce((s, r) => s + r.stargazerCount, 0);
-  const forks = outside.reduce((s, r) => s + r.forkCount, 0);
+  const stars = repos.reduce((s, r) => s + r.stargazerCount, 0);
+  const forks = repos.reduce((s, r) => s + r.forkCount, 0);
 
   return {
     contributions: contrib.contributionCalendar.totalContributions,
