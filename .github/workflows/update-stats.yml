@@ -28,7 +28,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Update stats
         env:
@@ -42,7 +42,20 @@ jobs:
           git add README.md assets/cards
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore: update stats [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update stats [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "Pushed."
+              exit 0
+            fi
+            echo "Push rejected, rebasing on remote (attempt $i)..."
+            git pull --rebase --autostash origin main
+            if git diff --cached --quiet; then
+              echo "Nothing left after rebase."
+              exit 0
+            fi
+          done
+          echo "Could not push after 5 attempts." >&2
+          exit 1
