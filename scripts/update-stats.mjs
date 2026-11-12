@@ -149,13 +149,12 @@ function languagesCard(languages, stats) {
   const height = startY + top.length * rowH + 20;
   const trackX = 208;
   const trackW = 800;
-  const total = top.reduce((s, l) => s + l.size, 0) || 1;
   const all = languages.reduce((s, l) => s + l.size, 0) || 1;
 
   const rows = top.map((lang, i) => {
     const y = startY + i * rowH;
     const share = lang.size / all;
-    const w = Math.max(4, Math.round((lang.size / total) * trackW));
+    const w = Math.max(4, Math.round(share * trackW));
     return `  <circle cx="40" cy="${y - 5}" r="5" fill="${esc(lang.color || C.accent)}"/>
   <text x="56" y="${y}" fill="${C.muted}" font-family="${MONO}" font-size="13">${esc(lang.name)}</text>
   <rect x="${trackX}" y="${y - 12}" width="${trackW}" height="10" rx="5" fill="${C.track}" stroke="#ffffff" stroke-opacity="0.05"/>
