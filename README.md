@@ -21,7 +21,7 @@ Développeur web indépendant et autodidacte. Je conçois des applications, des 
 Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur**. C'est pour cela que je construis en priorité des outils **local-first**, sans compte obligatoire et sans envoi de données vers un serveur. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
 <!-- STATS_ABOUT:START -->
-<sub>51 contributions · 42 commits · 8 dépôts publics · 6 étoiles — année 2026.</sub>
+<sub>53 contributions · 43 commits · 9 dépôts publics · 5 étoiles · langage principal TypeScript — année 2026.</sub>
 <!-- STATS_ABOUT:END -->
 
 <table>
@@ -139,17 +139,18 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
 ## <img src="assets/icons/chart-line.svg" width="20" height="20" alt="" /> GitHub en chiffres
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Activité GitHub" />
+  <img width="100%" src="assets/cards/activity.svg" alt="Activité GitHub — contributions sur les 12 derniers mois" />
 </div>
 
 <!-- STATS_BADGES:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-51-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="51 contributions" />
-  <img src="https://img.shields.io/badge/Commits-42-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="42 commits" />
-  <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-8-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="8 dépôts" />
-  <img src="https://img.shields.io/badge/%C3%89toiles-6-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="6 étoiles" />
+  <img src="https://img.shields.io/badge/Contributions-53-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="53 contributions" />
+  <img src="https://img.shields.io/badge/Commits-43-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="43 commits" />
+  <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-9-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="9 dépôts" />
+  <img src="https://img.shields.io/badge/%C3%89toiles-5-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="5 étoiles" />
   <img src="https://img.shields.io/badge/Pull%20requests-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 pull requests" />
   <img src="https://img.shields.io/badge/Issues-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 issues" />
+  <img src="https://img.shields.io/badge/Langage-TypeScript-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="Langage principal : TypeScript" />
 </div>
 
 <p align="center"><sub>Chiffres exacts — mise à jour le 12 nov. 2026.</sub></p>
@@ -158,9 +159,25 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
 <br />
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages les plus utilisés" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awashalt3-ux&amp;theme=github_dark&amp;bg_color=10110f&amp;text_color=a2a99a&amp;title_color=c5f36b&amp;icon_color=c5f36b&amp;border_color=2a2f25&amp;hide_border=true" alt="Langages par dépôt" />
+  <img width="100%" src="assets/cards/languages.svg" alt="Langages les plus utilisés, par poids de code" />
 </div>
+
+<br />
+
+### Dépôts
+
+<!-- STATS_REPOS:START -->
+| Dépôt | Langage | Commits (an) | Étoiles | Dernière MAJ |
+| :-- | :-- | --: | --: | --: |
+| [**GoPSC**](https://github.com/awashalt3-ux/GoPSC) | Go | 1 | 0 | 12 nov. |
+| [**chronos**](https://github.com/awashalt3-ux/chronos) | C | 1 | 0 | 12 nov. |
+| [**port-scanner**](https://github.com/awashalt3-ux/port-scanner) | Python | 7 | 0 | 12 nov. |
+| [**paperforge**](https://github.com/awashalt3-ux/paperforge) | TypeScript | 15 | 1 | 11 nov. |
+| [**cipher**](https://github.com/awashalt3-ux/cipher) | JavaScript | 3 | 1 | 11 nov. |
+| [**portfolio**](https://github.com/awashalt3-ux/portfolio) | HTML | 0 | 1 | 7 nov. |
+| [**task-manager**](https://github.com/awashalt3-ux/task-manager) | Python | 1 | 1 | 7 nov. |
+| [**webhook-manager**](https://github.com/awashalt3-ux/webhook-manager) | JavaScript | 1 | 1 | 7 nov. |
+<!-- STATS_REPOS:END -->
 
 <br />
 
