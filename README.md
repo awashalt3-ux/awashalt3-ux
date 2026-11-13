@@ -153,7 +153,7 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
   <img src="https://img.shields.io/badge/Langage-TypeScript-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="Langage principal : TypeScript" />
 </div>
 
-<p align="center"><sub>Chiffres exacts — mise à jour le 13 nov. 2026.</sub></p>
+<p align="center"><sub>Chiffres exacts — mise à jour le 14 nov. 2026.</sub></p>
 <!-- STATS_BADGES:END -->
 
 <br />
