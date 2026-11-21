@@ -70,6 +70,7 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
   <img src="https://img.shields.io/badge/React-10110f?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB&amp;labelColor=171a15" alt="React" />
   <img src="https://img.shields.io/badge/Vite-10110f?style=for-the-badge&amp;logo=vite&amp;logoColor=9135FF&amp;labelColor=171a15" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind-10110f?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=06B6D4&amp;labelColor=171a15" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/PySide6-10110f?style=for-the-badge&amp;logo=qt&amp;logoColor=41CD52&amp;labelColor=171a15" alt="PySide6" />
 
   <br /><br />
 
@@ -94,7 +95,6 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
   <img src="https://img.shields.io/badge/Rust-10110f?style=for-the-badge&amp;logo=rust&amp;logoColor=f0f1e9&amp;labelColor=171a15" alt="Rust" />
   <img src="https://img.shields.io/badge/C-10110f?style=for-the-badge&amp;logo=c&amp;logoColor=A8B9CC&amp;labelColor=171a15" alt="C" />
   <img src="https://img.shields.io/badge/C%23-10110f?style=for-the-badge&amp;logo=sharp&amp;logoColor=99CC00&amp;labelColor=171a15" alt="C#" />
-  <img src="https://img.shields.io/badge/PySide6-10110f?style=for-the-badge&amp;logo=qt&amp;logoColor=41CD52&amp;labelColor=171a15" alt="PySide6" />
 
   <br /><br />
 
