@@ -21,7 +21,7 @@ Développeur web indépendant et autodidacte. Je conçois des applications, des 
 Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur**. C'est pour cela que je construis en priorité des outils **local-first**, sans compte obligatoire et sans envoi de données vers un serveur. J'apprends en construisant, et j'explore aussi **Python**, **Rust**, **C** et **C#** pour comprendre ce qui se passe sous le capot.
 
 <!-- STATS_ABOUT:START -->
-<sub>58 contributions · 48 commits · 9 dépôts publics · 6 étoiles · langage principal TypeScript — année 2026.</sub>
+<sub>59 contributions · 49 commits · 9 dépôts publics · 6 étoiles · langage principal TypeScript — année 2026.</sub>
 <!-- STATS_ABOUT:END -->
 
 <table>
@@ -144,8 +144,8 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
 
 <!-- STATS_BADGES:START -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-58-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="58 contributions" />
-  <img src="https://img.shields.io/badge/Commits-48-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="48 commits" />
+  <img src="https://img.shields.io/badge/Contributions-59-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="59 contributions" />
+  <img src="https://img.shields.io/badge/Commits-49-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="49 commits" />
   <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-9-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="9 dépôts" />
   <img src="https://img.shields.io/badge/%C3%89toiles-6-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="6 étoiles" />
   <img src="https://img.shields.io/badge/Pull%20requests-0-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="0 pull requests" />
@@ -153,7 +153,7 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
   <img src="https://img.shields.io/badge/Langage-TypeScript-c5f36b?style=for-the-badge&amp;labelColor=171a15" alt="Langage principal : TypeScript" />
 </div>
 
-<p align="center"><sub>Chiffres exacts — mise à jour le 27 nov. 2026.</sub></p>
+<p align="center"><sub>Chiffres exacts — mise à jour le 28 nov. 2026.</sub></p>
 <!-- STATS_BADGES:END -->
 
 <br />
@@ -169,10 +169,10 @@ Ma conviction : **le logiciel est meilleur quand il reste près de l'utilisateur
 <!-- STATS_REPOS:START -->
 | Dépôt | Langage | Commits (an) | Étoiles | Dernière MAJ |
 | :-- | :-- | --: | --: | --: |
+| [**paperforge**](https://github.com/awashalt3-ux/paperforge) | TypeScript | 16 | 1 | 27 nov. |
 | [**GoPSC**](https://github.com/awashalt3-ux/GoPSC) | Go | 1 | 0 | 12 nov. |
 | [**chronos**](https://github.com/awashalt3-ux/chronos) | C | 1 | 0 | 12 nov. |
 | [**port-scanner**](https://github.com/awashalt3-ux/port-scanner) | Python | 7 | 0 | 12 nov. |
-| [**paperforge**](https://github.com/awashalt3-ux/paperforge) | TypeScript | 15 | 1 | 11 nov. |
 | [**cipher**](https://github.com/awashalt3-ux/cipher) | JavaScript | 3 | 1 | 11 nov. |
 | [**portfolio**](https://github.com/awashalt3-ux/portfolio) | HTML | 0 | 1 | 7 nov. |
 | [**task-manager**](https://github.com/awashalt3-ux/task-manager) | Python | 1 | 1 | 7 nov. |
